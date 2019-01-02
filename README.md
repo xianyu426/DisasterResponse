@@ -47,5 +47,5 @@ The results was displayed in web htmls
 
 
 # Licensing, Authors, and Acknowledgements
-[This project is under the Creative Commons Attribution-NonCommerical 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)  
+This project is under [the Creative Commons Attribution-NonCommerical 3.0 Unported License](https://creativecommons.org/licenses/by-nc/3.0/)  
 Auther: Wang Huan
